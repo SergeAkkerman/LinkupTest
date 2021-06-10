@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/SergeAkkerman/LinkupTest.git/static/css/main.0a03b29c.chunk.css",
-    "main.js": "/SergeAkkerman/LinkupTest.git/static/js/main.4ab2eee3.chunk.js",
-    "main.js.map": "/SergeAkkerman/LinkupTest.git/static/js/main.4ab2eee3.chunk.js.map",
-    "runtime-main.js": "/SergeAkkerman/LinkupTest.git/static/js/runtime-main.31ad0186.js",
-    "runtime-main.js.map": "/SergeAkkerman/LinkupTest.git/static/js/runtime-main.31ad0186.js.map",
-    "static/js/2.7d48755e.chunk.js": "/SergeAkkerman/LinkupTest.git/static/js/2.7d48755e.chunk.js",
-    "static/js/2.7d48755e.chunk.js.map": "/SergeAkkerman/LinkupTest.git/static/js/2.7d48755e.chunk.js.map",
-    "static/js/3.4f196a32.chunk.js": "/SergeAkkerman/LinkupTest.git/static/js/3.4f196a32.chunk.js",
-    "static/js/3.4f196a32.chunk.js.map": "/SergeAkkerman/LinkupTest.git/static/js/3.4f196a32.chunk.js.map",
-    "index.html": "/SergeAkkerman/LinkupTest.git/index.html",
-    "static/css/main.0a03b29c.chunk.css.map": "/SergeAkkerman/LinkupTest.git/static/css/main.0a03b29c.chunk.css.map",
-    "static/js/2.7d48755e.chunk.js.LICENSE.txt": "/SergeAkkerman/LinkupTest.git/static/js/2.7d48755e.chunk.js.LICENSE.txt"
+    "main.css": "/github.io/LinkupTest/static/css/main.0a03b29c.chunk.css",
+    "main.js": "/github.io/LinkupTest/static/js/main.4ab2eee3.chunk.js",
+    "main.js.map": "/github.io/LinkupTest/static/js/main.4ab2eee3.chunk.js.map",
+    "runtime-main.js": "/github.io/LinkupTest/static/js/runtime-main.43737030.js",
+    "runtime-main.js.map": "/github.io/LinkupTest/static/js/runtime-main.43737030.js.map",
+    "static/js/2.0aae9f90.chunk.js": "/github.io/LinkupTest/static/js/2.0aae9f90.chunk.js",
+    "static/js/2.0aae9f90.chunk.js.map": "/github.io/LinkupTest/static/js/2.0aae9f90.chunk.js.map",
+    "static/js/3.4f196a32.chunk.js": "/github.io/LinkupTest/static/js/3.4f196a32.chunk.js",
+    "static/js/3.4f196a32.chunk.js.map": "/github.io/LinkupTest/static/js/3.4f196a32.chunk.js.map",
+    "index.html": "/github.io/LinkupTest/index.html",
+    "static/css/main.0a03b29c.chunk.css.map": "/github.io/LinkupTest/static/css/main.0a03b29c.chunk.css.map",
+    "static/js/2.0aae9f90.chunk.js.LICENSE.txt": "/github.io/LinkupTest/static/js/2.0aae9f90.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.31ad0186.js",
-    "static/js/2.7d48755e.chunk.js",
+    "static/js/runtime-main.43737030.js",
+    "static/js/2.0aae9f90.chunk.js",
     "static/css/main.0a03b29c.chunk.css",
     "static/js/main.4ab2eee3.chunk.js"
   ]
